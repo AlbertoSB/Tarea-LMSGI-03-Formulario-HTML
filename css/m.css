@@ -1,0 +1,9 @@
+body,html{font-family:Arial}
+body{width:90%;padding-left:5%;padding-right:5%;background-color:#ccc}
+body,input,select,label{font-size:3.5vw}
+h1{font-size:7vw}
+h3{font-size:5vw}
+input,select{width:90%}
+input[type=checkbox]{width:5%}
+input[type=radio]{width:5%}
+form{padding:2%}
