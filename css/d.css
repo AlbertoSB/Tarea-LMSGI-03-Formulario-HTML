@@ -1,5 +1,8 @@
 body,html{font-family:Arial}
-body{width:80%;padding-left:10%;padding-right:10%;background-color:#ccc}
+body{width:80%;
+  padding-left:10%;
+  padding-right:10%;
+  background-color:#ccc}
 body,input,select,label{font-size:1.5vw}
 h1{font-size:3vw}
 h3{font-size:2vw}
